@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lukeol11/Open-Commit-Test/issues"
   },
-  "homepage": "https://github.com/lukeol11/Open-Commit-Test#readme"
+  "homepage": "https://github.com/lukeol11/Open-Commit-Test#readme",
+  "dependencies": {
+    "vue": "^2.7.14"
+  }
 }
