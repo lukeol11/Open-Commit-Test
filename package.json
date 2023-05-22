@@ -1,0 +1,19 @@
+{
+  "name": "open-commit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeol11/Open-Commit-Test.git"
+  },
+  "author": "lukeol11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeol11/Open-Commit-Test/issues"
+  },
+  "homepage": "https://github.com/lukeol11/Open-Commit-Test#readme"
+}
