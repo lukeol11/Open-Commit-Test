@@ -38,7 +38,7 @@ export default {
   },
   data() {
     return {
-      msg: 'Welcome to Your Vue.jd App',
+      msg: 'Welcome to Your Vue.js App',
     };
   },
 };
